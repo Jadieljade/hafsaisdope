@@ -73,34 +73,14 @@
     font-size: 18px;
     padding-top: 10px;
   }
-.poem1{
-    width: 80%;
-   margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-    max-width: 500px;
-    
-   
-    
-    color:rgb(88, 52, 5);
-  }
+
 .reason3{
   background-image: url(background1.jpg);
   background-repeat:repeat-y;
   background-size: contain;
 
 }
-  .poem2{
-    
-   margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-    max-width: 500px;
-   
-    
-    
-    color:rgb(165, 75, 120);
-  }
+  
 .reason5{
   background-image: url(background2.jpg);
   background-repeat: repeat-y;
