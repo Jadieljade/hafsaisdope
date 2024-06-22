@@ -1,0 +1,109 @@
+.reason1, .reason2, .reason4{
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 30s ease infinite;    
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+
+    
+    font-family: Arial, sans-serif;
+}
+@keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+  
+    50% {
+      background-position: 100% 50%;
+    }
+  
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+ 
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+
+  
+  h1, h2, p {
+    text-align: center;
+  }
+/*   
+  .container{
+    width: 80%;
+   margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  } */
+  
+
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .content p {
+    display: flex;
+    text-align:left ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    padding-top: 10px;
+  }
+.poem1{
+    width: 80%;
+   margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    
+   
+    
+    color:rgb(88, 52, 5);
+  }
+.reason3{
+  background-image: url(background1.jpg);
+  background-repeat:repeat-y;
+  background-size: contain;
+
+}
+  .poem2{
+    
+   margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+   
+    
+    
+    color:rgb(165, 75, 120);
+  }
+.reason5{
+  background-image: url(background2.jpg);
+  background-repeat: repeat-y;
+  background-size: contain;
+
+  }
