@@ -78,12 +78,16 @@
   background-image: url(background1.jpg);
   background-repeat:repeat-y;
   background-size: contain;
+  padding: 20px;
+  color:rgb(197, 113, 162);
 
 }
-  
+
 .reason5{
   background-image: url(background2.jpg);
   background-repeat: repeat-y;
   background-size: contain;
+  padding: 20px;
+  color:rgb(182, 137, 158);
 
   }
